@@ -1,7 +1,7 @@
 {
   "name": "test_iota_wiki_theme",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom CSS to be used in a Docusarus site.",
   "main": "custom.css",
   "scripts": {
